@@ -1,3 +1,10 @@
-<div id="header" align="center" style="background-color:black">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width=300 />
+<h2 title="hey there" align="center"> Hey 👋, Hossein-Sa is here!</h2>
+<h3 align="center"> a Baby<b > JAVA </b> DEVELOPER 👶</h3>
+
+<div id="header" align="center">
+<img src="hossein-sa-animation.gif" width=400 />
 </div>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mongodb,html,css,js,bootstrap,git,docker,idea,linux" />
+</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hossein-sa&show_icons=true&theme=graywhite&&count_private=true)
