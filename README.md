@@ -5,6 +5,6 @@
 <img src="hossein-sa-animation.gif" width=400 />
 </div>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mongodb,html,css,js,bootstrap,git,docker,idea,linux" />
+    <img src="https://skillicons.dev/icons?i=python,django,flask,celery,redis,postgres,mongodb,html,css,js,bootstrap,git,docker,idea,linux" />
 </p>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=hossein-sa&show_icons=true&theme=graywhite&&count_private=true" /> -->
