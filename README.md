@@ -1,5 +1,5 @@
 <h2 title="hey there" align="center"> Hey 👋, Hossein-Sa is here!</h2>
-<h3 align="center"> <b > JAVA </b> DEVELOPER </h3>
+<h3 align="center"> <b > Python </b> DEVELOPER </h3>
 
 <div id="header" align="center">
 <img src="hossein-sa-animation.gif" width=400 />
