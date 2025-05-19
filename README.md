@@ -45,7 +45,7 @@ I’m also comfortable with **Docker**, **Git**, **Linux**, and modern deploymen
 
 - 💼 [LinkedIn](https://linkedin.com/in/hossein-sa)  
 - 🌐 [My Website](https://h-sadeghi.ir)  
-- 📫 Email: [your-email@example.com]
+- 📫 Email: [sadeghi.ho@hotmail.com]
 
 ---
 
